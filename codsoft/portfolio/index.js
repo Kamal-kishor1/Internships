@@ -45,6 +45,5 @@ ScrollReveal({
     delay:200
  });
 
- ScrollReveal().reveal('.home_content, .heading ' ,{origin:'top'});
-//  ScrollReveal().reveal('.home_img, .skill-container , .portfolio-box, .contact form' ,{origin:'bottom'});
-//  ScrollReveal().reveal('.about-img , .home_content h3' ,{origin:'left'});
+ ScrollReveal().reveal('.home_content ' ,{origin:'top'});
+ ScrollReveal().reveal('.home_img, .skill-container , .portfolio-box' ,{origin:'bottom'});
