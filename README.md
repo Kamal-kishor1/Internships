@@ -1,2 +1,2 @@
 # Internships
-I have successfully completed several internships, gaining valuable experience in Web Development.
+I have successfully completed internships, gaining valuable experience in Web Development.
